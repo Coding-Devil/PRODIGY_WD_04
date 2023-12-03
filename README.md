@@ -12,5 +12,4 @@
 
 ### Deployment:
 
-* Live demo, click here : [Gokulnath V]()
-
+* Live demo, click here : [Gokulnath V](https://gokul-portfolio-white.vercel.app/)
