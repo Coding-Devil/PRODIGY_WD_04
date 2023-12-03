@@ -1,4 +1,3 @@
-
 # Hi, I'm Gokulnath V! 👋
 ## A Frontend Developer and Data Science aspirant
 
@@ -12,5 +11,4 @@
 
 ### Deployment:
 
-* Live demo, click here : [Gokulnath V]()
-
+* Live demo, click here : [Gokulnath V](https://gokul-portfolio-white.vercel.app/)
